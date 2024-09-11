@@ -1,6 +1,0 @@
-﻿  main.cpp
-  Object.cpp
-C:\Users\lyshe\source\CptS122 PA\GameProject\GameProject\bundler.h(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-  Wrapper.cpp
-C:\Users\lyshe\source\CptS122 PA\GameProject\GameProject\bundler.h(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
-  Generating Code...

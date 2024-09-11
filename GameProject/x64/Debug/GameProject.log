@@ -1,6 +1,0 @@
-﻿  main.cpp
-  Wrapper.cpp
-  Generating Code...
-Wrapper.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
-Wrapper.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Transparent" (?Transparent@Color@sf@@2V12@B)
-C:\Users\lyshe\source\CptS122 PA\GameProject\x64\Debug\GameProject.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,3 +1,0 @@
-﻿main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::SoundBuffer::SoundBuffer(void)" (__imp_??0SoundBuffer@sf@@QEAA@XZ) referenced in function main
-main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::SoundBuffer::~SoundBuffer(void)" (__imp_??1SoundBuffer@sf@@QEAA@XZ) referenced in function main
-C:\Users\lyshe\OneDrive\Documents\GameProject\x64\Debug\GameProject.exe : fatal error LNK1120: 2 unresolved externals
